@@ -26,7 +26,7 @@ div {
 }
 
 .habilitado {
-  display: inline;
+  display: inline-block;
 }
 
 .desabilitado {

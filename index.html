@@ -9,10 +9,10 @@
 <body>
     <h1>Verificador de Palíndromos</h1>
     <p>Digite uma palavra:</p>
-    <input type="text" />
+    <input id="inputPalavra" type="text" />
     <div>
-        <button>Verificar</button>
-        <button class="desabilitado">Reiniciar</button>
+        <button onclick="tratarPalavra()">Verificar</button>
+        <button id="restartGame" class="desabilitado" onclick="restartGame()">Reiniciar</button>
     </div>
     <p id="mensagem"></p>
     <script src="script.js"></script>
