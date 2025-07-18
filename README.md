@@ -39,7 +39,7 @@ O código é dividido em funções auxiliares com responsabilidades bem definida
 
 ---
 
-## 🚀 Jogue você mesmo! [Acesse o site](https://odevlucass.github.io/jogo-adivinhacao/)
+## 🚀 Jogue você mesmo! [Acesse o site](https://odevlucass.github.io/verificador-de-palindromos/)
 
 ## Experimente junto comigo!
 
